@@ -17,3 +17,10 @@ color: rgb(28, 118, 197);
   #javascript{
     color: rgb(233, 11, 11);
   }
+
+  #curtidas{
+    background-color: pink;
+    color: deeppink;
+    border: 2px solid palevioletred;
+    border-radius: 12px;
+  }
