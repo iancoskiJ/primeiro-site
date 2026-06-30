@@ -1,26 +1,27 @@
- body{
-         background-color: rgb(247, 245, 233);
+body {
+        background-color: rgb(224, 222, 131);
+            color: rgb(0, 0, 0);
+            }
 
-color: rgb(28, 118, 197);      
-  }
-  h1{
+            h1 {
+                color: rgb(0, 0, 0);
+                }
 
-    .............
- color: rgb(10, 10, 146);
-  }
-  #HTML{
-    color: rgb(219, 21, 21);
-  }
-  #CSS{
-    color: rgb(228, 17, 17);
-  }
-  #javascript{
-    color: rgb(233, 11, 11);
-  }
-
-  #curtidas{
-    background-color: pink;
-    color: deeppink;
-    border: 2px solid palevioletred;
-    border-radius: 12px;
-  }
+                #html {
+                    color: orangered;
+                    }
+                    
+                    #css{
+                      color: orangered;
+                    }
+                    #java script{
+                      color: orangered;
+                    }
+                    #curtidas{
+                        background-color: pink;         /* cor de fundo */
+                            color: palevioletred;           /* cor da letra */
+                                padding: 5px 10px 5px 10px;       /* espaço interno */
+                                    border: 2px solid palevioletred;/* borda */
+                                        border-radius: 12px;              /* borda arredondada
+} */
+}
